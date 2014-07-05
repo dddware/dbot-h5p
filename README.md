@@ -1,5 +1,7 @@
 # dbot-h5p
 
+![Travis CI](https://travis-ci.org/dddware/dbot-h5p.svg)
+
 [html5please](http://html5please.com/) plugin for [dbot](https://github.com/dddware/dbot).
 
 ## Usage
