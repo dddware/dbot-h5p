@@ -28,5 +28,5 @@ Opera (mobile): 10
 ## Tests
 
 ```shell
-npm test # run tests
+npm test
 ```
