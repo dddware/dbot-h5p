@@ -1,11 +1,11 @@
-# dbot-html5
+# dbot-h5p
 
 [html5please](http://html5please.com/) plugin for [dbot](https://github.com/dddware/dbot).
 
 ## Usage
 
 ```irc
-html5 keywords
+h5p keywords
 ```
 
 `keywords` is a space-separated list of [search terms](https://github.com/h5bp/html5please-api/blob/master/keywords.json).

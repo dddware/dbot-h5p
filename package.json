@@ -1,22 +1,22 @@
 {
-  "name": "dbot-html5",
+  "name": "dbot-h5p",
   "description": "html5please plugin for dbot",
   "main": "dbot.js",
   "scripts": {
-    "test": "jasmine-node dbot-html5.spec.js"
+    "test": "jasmine-node dbot-h5p.spec.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dddware/dbot-html5"
+    "url": "git://github.com/dddware/dbot-h5p"
   },
   "author": {
     "name": "neemzy",
     "email": "tom.panier@free.fr"
   },
   "bugs": {
-    "url": "https://github.com/dddware/dbot-html5/issues"
+    "url": "https://github.com/dddware/dbot-h5p/issues"
   },
-  "homepage": "https://github.com/dddware/dbot-html5",
+  "homepage": "https://github.com/dddware/dbot-h5p",
   "dependencies": {
     "deferred": "~0.7.1"
   },
