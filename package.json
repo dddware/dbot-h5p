@@ -20,8 +20,5 @@
   "homepage": "https://github.com/dddware/dbot-h5p",
   "dependencies": {
     "deferred": "~0.7.1"
-  },
-  "devDependencies": {
-    "jasmine-async": "0.0.1"
   }
 }
