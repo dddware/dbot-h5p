@@ -1,0 +1,26 @@
+{
+  "name": "dbot-html5",
+  "description": "html5please plugin for dbot",
+  "main": "dbot.js",
+  "scripts": {
+    "test": "jasmine-node dbot-html5.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dddware/dbot-html5"
+  },
+  "author": {
+    "name": "neemzy",
+    "email": "tom.panier@free.fr"
+  },
+  "bugs": {
+    "url": "https://github.com/dddware/dbot-html5/issues"
+  },
+  "homepage": "https://github.com/dddware/dbot-html5",
+  "dependencies": {
+    "deferred": "~0.7.1"
+  },
+  "devDependencies": {
+    "jasmine-async": "0.0.1"
+  }
+}
